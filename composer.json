@@ -1,7 +1,7 @@
 {
   "name": "evilfreelancer/steam-api-client",
   "type": "library",
-  "description": "Client for interaction with Steam API",
+  "description": "The SteamAPI PHP Client is a PHP library for interacting with the Steam API. It provides an easy way to fetch data from the Steam platform, such as user profiles, games, and reviews.",
   "keywords": [
     "http-client",
     "psr-4",
